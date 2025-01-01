@@ -11,7 +11,7 @@ class Mailer {
         try {
             // Server settings
             $this->mail->isSMTP();
-            $this->mail->Host = 'result.demoikeworld.com';
+            $this->mail->Host = 'domain name';
             $this->mail->SMTPAuth = true;
             $this->mail->Username = 'your username';
             $this->mail->Password = 'password'; // Replace with the actual email password
