@@ -13,8 +13,8 @@ class Mailer {
             $this->mail->isSMTP();
             $this->mail->Host = 'result.demoikeworld.com';
             $this->mail->SMTPAuth = true;
-            $this->mail->Username = 'info@result.demoikeworld.com';
-            $this->mail->Password = 'WCS8U@82@xpf'; // Replace with the actual email password
+            $this->mail->Username = 'your username';
+            $this->mail->Password = 'password'; // Replace with the actual email password
             $this->mail->SMTPSecure = 'tls';
             $this->mail->Port = 587;
 
