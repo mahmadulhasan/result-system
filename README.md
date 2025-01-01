@@ -1,7 +1,8 @@
-#Result Management System
+**Result Management System**
 Welcome to the Result Management System! This project is designed to streamline academic result processing with dedicated portals for super admin, admin, multiple schools, students, and the public. Built with PHP, it incorporates powerful tools like PHPMailer and PHPSpreadsheet to enhance functionality.
 
-##Features
+**Features**
+
 **Super Admin Portal**
 Manage admins and schools.
 Oversee system-wide activities and generate reports.
@@ -20,7 +21,8 @@ View and download personal results securely.
 **Public Portal**
 Search results using credentials via a user-friendly interface.
 
-##Technologies Used
+**Technologies Used**
+
 **Backend:**
 --PHP
 --Frontend:
