@@ -1,0 +1,9 @@
+# Enable the rewrite engine
+RewriteEngine On
+
+# Prevent access to files or directories that actually exist
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+
+# Rewrite all requests that don’t end with a slash to add .php
+RewriteRule ^([^/]+)/$ $1.php [L]

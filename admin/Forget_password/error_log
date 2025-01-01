@@ -1,0 +1,194 @@
+[06-Oct-2024 15:57:23 UTC] PHP Warning:  include(db_config.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 4
+[06-Oct-2024 15:57:23 UTC] PHP Warning:  include(): Failed opening 'db_config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 4
+[06-Oct-2024 15:57:40 UTC] PHP Warning:  include(db_config.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 4
+[06-Oct-2024 15:57:40 UTC] PHP Warning:  include(): Failed opening 'db_config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 4
+[06-Oct-2024 15:59:25 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 71
+[06-Oct-2024 15:59:25 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 71
+[06-Oct-2024 15:59:30 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 71
+[06-Oct-2024 15:59:30 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 71
+[06-Oct-2024 16:00:09 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 67
+[06-Oct-2024 16:00:09 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 67
+[06-Oct-2024 16:00:25 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 67
+[06-Oct-2024 16:00:25 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 67
+[06-Oct-2024 16:18:50 UTC] PHP Warning:  Undefined variable $message in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 63
+[06-Oct-2024 16:18:50 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 84
+[06-Oct-2024 16:18:50 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 84
+[06-Oct-2024 16:19:57 UTC] PHP Warning:  Undefined variable $message in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 63
+[06-Oct-2024 16:19:57 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 82
+[06-Oct-2024 16:19:57 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 82
+[06-Oct-2024 16:20:25 UTC] PHP Warning:  Undefined variable $message in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 63
+[06-Oct-2024 16:20:25 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 82
+[06-Oct-2024 16:20:25 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 82
+[06-Oct-2024 16:20:40 UTC] PHP Warning:  Undefined variable $message in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 63
+[06-Oct-2024 16:20:40 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 82
+[06-Oct-2024 16:20:40 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 82
+[06-Oct-2024 16:20:52 UTC] PHP Warning:  Undefined variable $message in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 63
+[06-Oct-2024 16:20:52 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 82
+[06-Oct-2024 16:20:52 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 82
+[06-Oct-2024 16:21:12 UTC] PHP Warning:  Undefined variable $message in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 63
+[06-Oct-2024 16:21:12 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 82
+[06-Oct-2024 16:21:12 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 82
+[06-Oct-2024 16:22:17 UTC] PHP Warning:  Undefined variable $message in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 62
+[06-Oct-2024 16:22:17 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 81
+[06-Oct-2024 16:22:17 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 81
+[06-Oct-2024 16:22:47 UTC] PHP Warning:  Undefined variable $message in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 61
+[06-Oct-2024 16:22:47 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 79
+[06-Oct-2024 16:22:47 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 79
+[06-Oct-2024 16:24:33 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 63
+[06-Oct-2024 16:24:33 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 63
+[06-Oct-2024 16:24:49 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 63
+[06-Oct-2024 16:24:49 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 63
+[06-Oct-2024 16:25:16 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 62
+[06-Oct-2024 16:25:16 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 62
+[06-Oct-2024 17:07:57 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 67
+[06-Oct-2024 17:07:57 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 67
+[07-Oct-2024 10:57:59 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 67
+[07-Oct-2024 10:57:59 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 67
+[07-Oct-2024 11:03:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'token_expiry' in 'field list' in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php:24
+Stack trace:
+#0 /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php(24): mysqli->prepare('UPDATE school_d...')
+#1 {main}
+  thrown in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 24
+[07-Oct-2024 11:06:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'token_expiry' in 'field list' in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php:24
+Stack trace:
+#0 /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php(24): mysqli->prepare('UPDATE school_d...')
+#1 {main}
+  thrown in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 24
+[07-Oct-2024 11:07:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'token_expiry' in 'field list' in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php:24
+Stack trace:
+#0 /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php(24): mysqli->prepare('UPDATE school_d...')
+#1 {main}
+  thrown in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 24
+[07-Oct-2024 11:07:54 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 71
+[07-Oct-2024 11:07:54 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 71
+[07-Oct-2024 11:07:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'token_expiry' in 'field list' in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php:24
+Stack trace:
+#0 /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php(24): mysqli->prepare('UPDATE school_d...')
+#1 {main}
+  thrown in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 24
+[16-Oct-2024 13:48:26 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 71
+[16-Oct-2024 13:48:26 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 71
+[16-Oct-2024 13:50:42 UTC] PHP Warning:  require(../../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 10
+[16-Oct-2024 13:50:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 10
+[16-Oct-2024 13:50:48 UTC] PHP Warning:  require(../../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 10
+[16-Oct-2024 13:50:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 10
+[16-Oct-2024 13:51:18 UTC] PHP Warning:  require(../../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 10
+[16-Oct-2024 13:51:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 10
+[16-Oct-2024 13:51:54 UTC] PHP Warning:  require(../../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 13:51:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 13:53:40 UTC] PHP Warning:  require(../../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 13:53:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 13:53:45 UTC] PHP Warning:  require(../../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 13:53:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 13:55:20 UTC] PHP Warning:  require(../../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 13:55:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 13:55:36 UTC] PHP Warning:  require(../../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 13:55:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 13:55:59 UTC] PHP Warning:  require(../../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 13:55:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 13:56:03 UTC] PHP Warning:  require(../../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 13:56:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 13:56:18 UTC] PHP Warning:  require(../../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 13:56:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 13:56:31 UTC] PHP Warning:  require(../../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 13:56:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 13:58:05 UTC] PHP Warning:  require(../../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 13:58:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 13:58:06 UTC] PHP Warning:  require(../../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 13:58:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 13:58:10 UTC] PHP Warning:  require(../../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 13:58:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 13:58:12 UTC] PHP Warning:  require(../../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 13:58:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 13:58:21 UTC] PHP Warning:  require(../../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 13:58:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 14:11:10 UTC] PHP Warning:  require(../../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 14:11:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 11
+[16-Oct-2024 14:17:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'token_expiry' in 'field list' in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php:31
+Stack trace:
+#0 /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php(31): mysqli->prepare('UPDATE school_d...')
+#1 {main}
+  thrown in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 31
+[19-Oct-2024 07:22:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'token_expiry' in 'field list' in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php:31
+Stack trace:
+#0 /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php(31): mysqli->prepare('UPDATE school_d...')
+#1 {main}
+  thrown in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 31
+[19-Oct-2024 07:31:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'token_expiry' in 'field list' in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php:31
+Stack trace:
+#0 /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php(31): mysqli->prepare('UPDATE school_d...')
+#1 {main}
+  thrown in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 31
+[19-Oct-2024 07:31:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'token_expiry' in 'field list' in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php:31
+Stack trace:
+#0 /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php(31): mysqli->prepare('UPDATE school_d...')
+#1 {main}
+  thrown in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 31
+[19-Oct-2024 12:26:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'token_expiry' in 'field list' in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php:31
+Stack trace:
+#0 /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php(31): mysqli->prepare('UPDATE school_d...')
+#1 {main}
+  thrown in /home4/demoixic/result.demoikeworld.com/School/Forget_password/index.php on line 31
+[30-Oct-2024 14:50:41 UTC] PHP Warning:  Undefined variable $security_key_valid in /home4/demoixic/result.demoikeworld.com/School/Forget_password/reset_password.php on line 62
+[30-Oct-2024 14:50:41 UTC] PHP Warning:  Undefined variable $security_key_valid in /home4/demoixic/result.demoikeworld.com/School/Forget_password/reset_password.php on line 71
+[30-Oct-2024 14:50:55 UTC] PHP Warning:  Undefined variable $security_key_valid in /home4/demoixic/result.demoikeworld.com/School/Forget_password/reset_password.php on line 62
+[30-Oct-2024 14:50:55 UTC] PHP Warning:  Undefined variable $security_key_valid in /home4/demoixic/result.demoikeworld.com/School/Forget_password/reset_password.php on line 71
+[30-Oct-2024 14:51:00 UTC] PHP Warning:  Undefined variable $security_key_valid in /home4/demoixic/result.demoikeworld.com/School/Forget_password/reset_password.php on line 62
+[30-Oct-2024 14:51:00 UTC] PHP Warning:  Undefined variable $security_key_valid in /home4/demoixic/result.demoikeworld.com/School/Forget_password/reset_password.php on line 71
+[30-Oct-2024 14:51:33 UTC] PHP Warning:  Undefined variable $security_key_valid in /home4/demoixic/result.demoikeworld.com/School/Forget_password/reset_password.php on line 62
+[30-Oct-2024 14:51:33 UTC] PHP Warning:  Undefined variable $security_key_valid in /home4/demoixic/result.demoikeworld.com/School/Forget_password/reset_password.php on line 71
+[01-Nov-2024 14:43:09 UTC] PHP Warning:  Undefined array key "reset_token" in /home4/demoixic/result.demoikeworld.com/admin/Forget_password/otp.php on line 12
